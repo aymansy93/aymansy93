@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> Hi there 👋, I'm Ayman kanawi</h1>
-<h3 align="center">My passion for technology and cybersecurity led me to pursue a career as a backend developer and pentester.</h3>
+<h3 align="center">My passion for technology and cybersecurity led me to pursue a career as a backend developer and pentester.:purple_heart: :purple_heart:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymansy93&label=Profile%20views&color=0e75b6&style=flat" alt="aymansy93" /> </p>
 
