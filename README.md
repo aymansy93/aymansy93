@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 align="center"> Hi there 👋, I'm Ayman kanawi</h1>
 <h3 align="center">My passion for technology and cybersecurity led me to pursue a career as a backend developer and pentester.</h3>
 
@@ -22,12 +23,15 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymansy93" alt="aymansy93" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kanawiayman" target="blank"><img src="https://img.shields.io/twitter/follow/kanawiayman?logo=twitter&style=for-the-badge" alt="kanawiayman" /></a> </p>
+<img align="right" width="40%" src="https://github.com/aymansy93/MyReactResume/blob/main/src/assets/images/happy-hacker.gif?raw=true" alt="h"/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kanawiayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanawiayman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayman-kanawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayman-kanawi" height="30" width="40" /></a>
 <a href="https://fb.com/aymen.kn.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aymen.kn.7" height="30" width="40" /></a>
+<a href="https://portfolio.aymankanawi.info/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3525/PNG/512/web_online_internet_global_earth_world_globe_icon_221254.png" alt="ayman.com" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,15 +39,16 @@ Here are some ideas to get you started:
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aymankan94Y"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aymankan94Y" /></a></p>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymansy93&show_icons=true&locale=en&layout=compact" alt="aymansy93" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymansy93&show_icons=true&locale=en&layout=compact" alt="aymansy93" />
+
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aymansy93&show_icons=true&locale=en" alt="aymansy93" /></p> -->
 
-<!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymansy93&" alt="aymansy93" /></p> -->
-
-<div style="margin-bottom: 5px;align-item:center">
+<!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymansy93&" alt="aymansy93" /></p> --><br>
+<!-- <div style="margin-bottom: 5px;align-item:center"> -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aymansy93&theme=aura" alt="GitHub Profile Summary Cards">
-  </div>
+<!--   </div> -->
+
 
 
 
