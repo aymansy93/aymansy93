@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/kanawiayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanawiayman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayman-kanawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayman-kanawi" height="30" width="40" /></a>
 <a href="https://fb.com/aymen.kn.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aymen.kn.7" height="30" width="40" /></a>
-<a href="https://portfolio.aymankanawi.info/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3525/PNG/512/web_online_internet_global_earth_world_globe_icon_221254.png" alt="ayman.com" height="40" width="40" /></a>
+<a href="https://aymankanawi.info/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3525/PNG/512/web_online_internet_global_earth_world_globe_icon_221254.png" alt="ayman.com" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
